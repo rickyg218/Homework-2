@@ -4,9 +4,24 @@
         margin-bottom: 10px; 
 }
  body { 
-     background-color: grey;
+     background-color:navy;
  }
  .portfolio{
      text-align: center;
+     color: white;
     
  }
+ h3{
+     color:black
+ }
+ .img{
+     text-align: center;
+ }
+.about-me{
+    background-image:url("aboutme.jpg");
+    
+}
+
+.contact{
+    background-image: url("contact.jpg");
+}
